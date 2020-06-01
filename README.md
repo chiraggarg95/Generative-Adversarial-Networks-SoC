@@ -1,2 +1,11 @@
 # Generative-Adversarial-Networks-SoC
-Seasons of Code - Generative Adversarial Networks
+
+Name: Chirag Garg
+
+Dept: Mechanical Engineering
+
+Roll No: 190100042  
+
+Mentor: Akshit Srivastva and Tezan Sahu
+
+
