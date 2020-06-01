@@ -21,3 +21,13 @@ Mentors: Akshit Srivastva & Tezan Sahu
 - Understood the mathematics behind Generative Adversarial Networks.
 - Implemented a basic Generative Adversarial Network using PyTorch framework which produced handwritten digits similar to those present in MNIST dataset.
 
+## Resources Used 
+
+- Medium Articles:
+    - [GAN — What is Generative Adversarial Networks GAN? - Jonathan Hui](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09)
+    - [GAN — Some cool applications of GAN - Jonathan Hui](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
+    - [Understanding Generative Adversarial Networks (GANs)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+    - [MNIST-GAN: Detailed step by step explanation & implementation in code](https://medium.com/intel-student-ambassadors/mnist-gan-detailed-step-by-step-explanation-implementation-in-code-ecc93b22dc60)
+    - [GANs from Scratch 1: A deep introduction. With code in PyTorch and TensorFlow](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
+    
+
