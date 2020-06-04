@@ -21,6 +21,15 @@ Mentors: Akshit Srivastva & Tezan Sahu
 - Understood the mathematics behind Generative Adversarial Networks.
 - Implemented a basic Generative Adversarial Network using PyTorch framework which produced handwritten digits similar to those present in MNIST dataset.
 
+## About Codes
+
+The following codes were written and are added in the repositiory:
+
+- MNIST Digit Recogniser: A model which predicted hand written digits when trained upon MNIST dataset. It used Convolutional Neural Networks for training.
+- GAN implementation on MNIST: This model used Generative Adversarial Networks on MNIST dataset to produce similar handwritten digits. 
+- Coursera Submissions: These are the codes submitted on coursera while completing the courses.
+- Practice Codes: These are the practice models created while learning the PyTorch framework.
+
 ## Resources Used 
 - Coursera Courses:
     - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
